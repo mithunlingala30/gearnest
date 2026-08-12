@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366730394698",
+    "firebase_url": "https://gearnest-40d17-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gearnest-40d17",
+    "storage_bucket": "gearnest-40d17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366730394698:android:83ac468715d9fdac1a7ab3",
+        "android_client_info": {
+          "package_name": "com.example.event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366730394698-j1jrtmqu69uic9h23s2peobnokt3hh8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7brQTXrSMhzbeJ-vLXVbC2UE9ZwBP5Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366730394698-j1jrtmqu69uic9h23s2peobnokt3hh8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
